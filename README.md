@@ -16,7 +16,6 @@ The goal is to capture complex temporal dependencies in financial time series an
 
 ## 🛠 Tech Stack
 - **Python** (Pandas, NumPy, Matplotlib, Scikit-learn)
-- **PyTorch** (or TensorFlow, if you used it)
 - **Jupyter Notebook**
 - **Yahoo Finance API** / CSV dataset
 
